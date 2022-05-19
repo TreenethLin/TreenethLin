@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 <p align = "center">
  
-[<img src ="https://img.shields.io/badge/Portfolio & CV-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://treenethlin.github.io/linglom.github.io/portfolio-project/)
+[<img src ="https://img.shields.io/badge/Portfolio & CV-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://treenethlin.github.io/mathilee.github.io/portfolio-project/)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/yuttapichai-linglom/)
 
 </p>
