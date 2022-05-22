@@ -1,24 +1,9 @@
-<!--
-**TreenethLin/TreenethLin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 ![image](https://user-images.githubusercontent.com/89693403/165821882-4f5d1425-44c8-4dc3-acfd-562bf12291bf.png)
 
 
 
-<p align="center" ><img 
- src="https://media.giphy.com/media/ule4vhcY1xEKQ/giphy.gif" width="40%" alt="cat-coding"/></p>
+<p align="center"><img 
+ src="https://media.giphy.com/media/ule4vhcY1xEKQ/giphy.gif" width="100%" alt="cat-coding"/></p>
 
 <br>
 <h3 align="center">I'm currently a student developer (MERN STACK).<br/>Interested in Web-Development and Data-Analytics.<br> I also an independent singer & songwriter.<br></h3><br/>
