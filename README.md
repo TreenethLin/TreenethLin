@@ -14,7 +14,7 @@
 
 - 🔭 Based in Nonthaburi, Thailand. I'm an ex-recruiter who love coding.
 - 🌱 I’m currently learning MERN Stack (React, Nodejs, Expressjs, MongoDB).
-- 👯 looking for new job, I wanna start my new career as Frontend Developer.
+- 👯 looking for new job, I wanna start my new career as Full-stack Developer.
 - 💬 Talk to me about Web Development and Indonesian Folk Song.
 
 <summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" align="center"
