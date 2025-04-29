@@ -1,50 +1,75 @@
-![image](https://user-images.githubusercontent.com/89693403/165821882-4f5d1425-44c8-4dc3-acfd-562bf12291bf.png)
+# Yuttapichai Paul Linglom
+
+## Product Owner | Agile Evangelist | Full Stack Developer
+
+Dynamic product owner with a technical background in full stack development. Passionate about aligning technical teams with business goals to deliver high-value products. Originally from the south of Thailand, I am an ex-beachboy who fell in love with problem-solving.
+
+> *"Humans are better when they don't stop learning."*
+
+## 🚀 About Me
+
+- 🔭 Currently working as a **Product Owner** at **Jasmine Technology Solution**
+- 💻 Previously worked in software development and recruitment
+- 🌱 Passionate about **Agile methodologies** and **user-centered design**
+- 🎯 Believe that humans are better when they don't stop learning
 
 
+## 💼 Experience
 
-<p align="center"><img 
- src="https://media.giphy.com/media/ule4vhcY1xEKQ/giphy.gif" width="100%" alt="cat-coding"/></p>
+- **Product Owner** @ Jasmine Technology Solution (2024 - Present)
+- **Software Developer** @ Learn Corporation (2022 - 2024)
+- **Recruitment Team Leader** @ Decathlon Thailand (2020 - 2021)
+- **Host & Walking Tour Guide** @ Once Again Hostel (2018 - 2020)
 
-<br>
-<h3 align="center">I'm currently a student developer (MERN STACK).<br/>Interested in Web-Development and Data-Analytics.<br> I also an independent singer & songwriter.<br></h3><br/>
 
+## 🛠️ Technical Skills
 
-<summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1453406830/264/success-kid.png?1453406830" align="center"
-                width="28" /> What I currently do</h2></summary>
+**Programming & Development:**
+TypeScript, React, NextJS, Tailwind, Express, NestJS
 
-- 🔭 Based in Nonthaburi, Thailand. I'm an ex-recruiter who love coding.
-- 🌱 I’m currently learning MERN Stack (React, Nodejs, Expressjs, MongoDB).
-- 👯 looking for new job, I wanna start my new career as Full-stack Developer.
-- 💬 Talk to me about Web Development and Indonesian Folk Song.
+**Databases:**
+MySQL, PostgreSQL, MongoDB
 
-<summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" align="center"
-                width="28" /> To connect with me</h2></summary>
+**DevOps & Tools:**
+Git, Linux, Docker, Redis, Google Cloud Platform
 
-<p align = "center">
- 
-[<img src ="https://img.shields.io/badge/Portfolio & CV-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://treenethlin.github.io/mathilee.github.io/portfolio-project/)
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/yuttapichai-linglom/)
+**API & Testing:**
+Rest API, Postman
 
-</p>
+**IDE:**
+Visual Studio Code, Cursor
 
-<summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1471045839/793/computerrage.gif?1471045839" align="center"
-                width="28" /> My Tools</h2></summary>
+**Management:**
+Atlassian Jira, Confluence, Flowchart, Technical Documentation
 
-<br>
+**Design:**
+Figma, Canva
 
-<div>    
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="60" />  
-<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1200px-Bash_Logo_Colored.svg.png" alt="Bash" height="60" /> 
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="60" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="60" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="60" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="60" />
-<img style="margin: 10px" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" alt="Node.js" height="60" />
- 
-<!-- <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="60" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="60" /> -->
+## 🧠 PM Skills
 
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="60" />
-<img style="margin: 10px" src="https://play-lh.googleusercontent.com/hvK9JjjMrQ-MSP98UVqmwpgojkc89P5tYvLUbvbnAqORVx3o7mUhk_NNdSD4S9_F8pw" alt="MySQL" height="60" />  
-</div>  
+**User Experience:**
+Design Thinking, User Flow, User Persona, Wireframing & Prototyping
 
+**Product Management:**
+Roadmap Development, Backlog Prioritization, Stakeholder Management, Business Analysis
+
+**Data-Driven Decision Making:**
+KPI Tracking, Analytics, A/B Testing, User Feedback
+
+**Cross-Functional Leadership:**
+Team Coordination, Agile & Scrum Methodologies, Performance Evaluation, OKRs
+
+## 🔗 Connect With Me
+
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/yuttapichai-paul-linglom/)
+[<img src="https://img.shields.io/badge/Blog-058034?style=for-the-badge&logo=react&logoColor=white" />](https://yuttapichai.space)
+[<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:linglomst@gmail.com)
+[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/TreenethLin)
+
+## 🎵 Beyond Tech
+
+When not building products, I enjoy:
+
+- Singing & songwriting (reached top 10 on Fungjai chart)
+- Motorcycle adventures (12,000 km across Thailand)
+- Cassette collecting
