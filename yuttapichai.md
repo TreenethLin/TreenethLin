@@ -1,6 +1,5 @@
-# Yuttapichai Paul Linglom
-
-## Product Owner | Agile Evangelist | Full Stack Developer
+## Yuttapichai Paul Linglom
+## Product Owner & Full Stack Developer
 
 Dynamic product owner with a technical background in full stack development. Passionate about aligning technical teams with business goals to deliver high-value products. Originally from the south of Thailand, I am an ex-beachboy who fell in love with problem-solving.
 
